@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="StudentProcessorConsole/StudentProcessorConsole.csproj" />
+  <Project Path="StudentProcessorGUI/StudentProcessorGUI.csproj" />
+</Solution>
